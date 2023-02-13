@@ -1,9 +1,9 @@
-# Week6 mini rust project -- Paper_Scissors_Stone
-This project is a paper-scissors-stone game played with computer
+# Week6 mini rust project -- Paper Scissors Stone
+This project is a paper-scissors-stone game played with computer.
 
 Type `cargo run`
 
-You will see the game instruction
+You will see the game instruction:
 ```
 Paper, Scissors, Stone
 =====================
@@ -11,7 +11,7 @@ Paper, Scissors, Stone
 2. Scissors
 3. Stone
 ```
-Choose the number and see the result!
+Choose the number and see the result:
 ```
 You chose: Paper
 Computer chose: Scissors
