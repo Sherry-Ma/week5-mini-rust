@@ -1,4 +1,4 @@
-# Week6 mini rust project -- Paper Scissors Stone
+# Week5 mini rust project -- Paper Scissors Stone
 This project is a paper-scissors-stone game played with computer.
 
 Type `cargo run`
